@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartpncrypt",
+        "uuid": 1337475,
+        "checksum": "2t1df"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
